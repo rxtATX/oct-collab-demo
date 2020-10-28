@@ -2,7 +2,12 @@ body {
   background-color: purple;
 }
 
+<<<<<<< HEAD
 .picture {
   height: 200px;
   width: 200px;
+=======
+p {
+  color: white;
+>>>>>>> c81f3a34574a145ff60985f082ca379f1d35cda2
 }
